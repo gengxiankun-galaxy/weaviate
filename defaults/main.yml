@@ -1,0 +1,10 @@
+---
+# defaults file for weaviate
+
+OPT_PATH: /opt/gengxiankun-galaxy
+
+WEAVIATE_CONTAINER_NAME: 'weaviate'
+WEAVIATE_PORT: 3306
+WEAVIATE_GRPC_PORT: 50051
+WEAVIATE_VOLUME: 'weaviate'
+WEAVIATE_VERSION: 1.27.1-2f82c6f
